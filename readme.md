@@ -1,0 +1,1 @@
+le projet consiste à créer une librairie afin de facilité la création d'effet d'animation des blocks html.
